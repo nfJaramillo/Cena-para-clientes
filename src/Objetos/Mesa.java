@@ -75,7 +75,7 @@ public class Mesa {
 
 	/**
 	 * Comensales
-	 * Este metodo genera una tabla temporal en la base de datos donde los clientes
+	 * Este metodo genera una tabla temporal en la base de datos, donde los clientes
 	 * ya se filtran por los criterios especificos de la entrada, se calcula su monton total a raiz de las cuentas
 	 * se agrupa por empresa y se ordena por monto total.
 	 * 
